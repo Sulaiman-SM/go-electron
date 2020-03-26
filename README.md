@@ -1,4 +1,5 @@
 # go-electron
+This repo project is an ADDITION CALCULATOR that frontend is built on electronjs and the backend using GO
 
 # pre-requesits
 make sure the following are installed
